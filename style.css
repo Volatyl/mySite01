@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+p {
+  font-size: 20px;
+  margin-left: 30px;
+}
+#one {
+  color: red;
+}
+#demo {
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: aquamarine;
+}
